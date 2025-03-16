@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03a46bd5.css",
+    "main.js": "/static/js/main.511e8bfb.js",
+    "static/js/453.7b154009.chunk.js": "/static/js/453.7b154009.chunk.js",
+    "static/media/T53-Project Plan.pdf": "/static/media/T53-Project Plan.442b77114a2f39e33e28.pdf",
+    "static/media/High_Level_Requirements.pdf": "/static/media/High_Level_Requirements.978d678729ccb1e147b5.pdf",
+    "static/media/Project_Vision.pdf": "/static/media/Project_Vision.81129e33eb1224f2e861.pdf",
+    "static/media/Audrey_Resume.pdf": "/static/media/Audrey_Resume.443963ebec5cde3bde8e.pdf",
+    "static/media/Cover_Letter.pdf": "/static/media/Cover_Letter.32ffb7dbf84736e6a2e7.pdf",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.03a46bd5.css.map": "/static/css/main.03a46bd5.css.map",
+    "main.511e8bfb.js.map": "/static/js/main.511e8bfb.js.map",
+    "453.7b154009.chunk.js.map": "/static/js/453.7b154009.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03a46bd5.css",
+    "static/js/main.511e8bfb.js"
+  ]
+}
